@@ -1,5 +1,5 @@
 # Covid19India.Org-Tracker
-find the nearest corona positive location and number of cases with risk factor
+Find the nearest corona positive location and the number of cases with risk factor (low, moderate, high). Risk factor modelling is in the process.
 
 # Run server :
 py flaskServer.py
